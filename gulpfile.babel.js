@@ -151,7 +151,7 @@ gulp.task('lint:js', () =>
 gulp.task(
   'copy',
   gulp.series(
-    'copy:.htaccess',
+    // 'copy:.htaccess',
     'copy:index.html',
     'copy:jquery',
     'copy:license',
