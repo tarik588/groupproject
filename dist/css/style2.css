@@ -1,0 +1,161 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 34px;
+ #background-image: url("../img/mountain.jpg") ;
+  #background-size: 750px;
+}
+
+#wrapper {
+  width: 1208px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+footer {
+  text-align: center;
+  padding-left: 30%;
+}
+h1 {
+  font-size: 250%;
+  padding-left: 37%;
+  text-align: center;
+  background-color: white;
+
+}
+
+#sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-image: url("../img/beach.jpg");
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 180%;
+  padding-left: 50%;
+  background-color: white;
+}
+h3 {
+  font-size: 160%;
+}
+menu {
+  padding: 0px;
+  margin: 0px;
+
+
+}
+p{
+  padding-right: 100px;
+  padding-bottom: 10px;
+  text-align: center;
+  padding-left: 40%;
+
+}
+#top li {
+  display: inline;
+}
+#content {
+  width: 692px;
+  padding-left: 27px;
+  padding-right: 27px;
+  float: left;
+}
+#mainMenu {
+  width: 692px;
+  padding-left: 27px;
+  padding-right: 27px;
+  float: left;
+  text-align: right;
+
+}
+#menu ul {
+  padding-right: 5px;
+  line-height: 5px;
+
+
+}
+#mainMenu a {
+  font-size: 160%;
+
+}
+#mainMenu li {
+  padding-right: 20px;
+
+}
+#sidebar a {
+  font-size: 140%;
+}
+
+a:hover {
+  color: royalblue;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+#sidebar {
+  width: 420px;
+  padding-left: 21px;
+  padding-right: 21px;
+  text-align: center;
+
+
+}
+#sidebar a{
+  padding-right: 10%;
+  text-align: center;
+}
+#sidebar img{
+  padding: 0% 25%;
+
+
+}
+#image2 img{
+  padding-left: 100%;
+
+}
+
+#mainArea {
+  clear: both;
+}
+#logo {
+  width: 420px;
+  padding-left: 21px;
+  padding-right: 21px;
+  float: left;
+  height: 160px;
+  text-align: center;
+}
+
+#top {
+  height: 160px;
+  line-height: 160px;
+}
+
+
+
+footer {
+  clear: left;
+
+}
+li.lastItem {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+img.class {
+  width: 500px;
+
+
+
+}
+#paragraph{
+  text-align: center;
+}
+

@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Task: home page for project">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ocean2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/sand.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/goldenRatio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y83TbXSvM9xUNhpQJgNHrpoKZ7" />
@@ -20,12 +42,43 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\src\img" />
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="js.build_tools.gulp" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.babel.js</gulpfile>
+      <tasks>
+        <task>build</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/html5-boilerplate1/src/index.html" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,7 +90,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582310402354</updated>
-      <workItem from="1582310403997" duration="1504000" />
+      <workItem from="1582310403997" duration="9374000" />
+      <workItem from="1582600730647" duration="623000" />
+      <workItem from="1582660279581" duration="2000" />
+      <workItem from="1582726823301" duration="330000" />
+      <workItem from="1582921544898" duration="262000" />
+      <workItem from="1583008723457" duration="180000" />
+      <workItem from="1583084912732" duration="838000" />
+      <workItem from="1583264847388" duration="3847000" />
+      <workItem from="1583330408647" duration="117000" />
+      <workItem from="1583330536890" duration="6256000" />
+      <workItem from="1583364424646" duration="867000" />
+      <workItem from="1583374557836" duration="948000" />
+      <workItem from="1583382012595" duration="7981000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -46,24 +111,120 @@
       <option name="project" value="LOCAL" />
       <updated>1582311211010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task: Updated readme with markdown">
+      <created>1582311923865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582311923865</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task: added the gitdance">
+      <created>1582315263859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582315263859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: added the gitdance">
+      <created>1582315359930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582315359930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task: home page for project">
+      <created>1583336890844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583336890844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task: home page for project">
+      <created>1583337086375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583337086375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Task: First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: First Commit" />
+    <MESSAGE value="Task: Updated readme with markdown" />
+    <MESSAGE value="Task: added the gitdance" />
+    <MESSAGE value="Task: home page for project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: home page for project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1582311209974">
+    <state x="558" y="119" key="#Deployment" timestamp="1583525715301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582311209974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1582311225298">
+    <state x="558" y="119" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1583525715301" />
+    <state x="361" y="72" key="#Options" timestamp="1583337573921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582311225298" />
+    <state x="361" y="72" key="#Options/0.0.1536.824@0.0.1536.824" timestamp="1583337573921" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582312254310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1583525740184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
+    <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583331413500" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1582588971463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582588971463" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1582588971463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582588971463" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1582588971462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582588971462" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1582588971463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582588971463" />
+    <state x="147" y="71" key="MergeDialog" timestamp="1583337870189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="71" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870189" />
+    <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1583337870197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583337682715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583337682715" />
+    <state x="851" y="191" key="ftp.server.browser" timestamp="1583337613003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="851" y="191" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1583337613003" />
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583337796572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337796572" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583522130657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583522130657" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583336338073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583336338073" />
   </component>
 </project>
