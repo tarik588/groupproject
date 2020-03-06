@@ -9,6 +9,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="afs (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="html5-boilerplate1" local="$PROJECT_DIR$/dist" web="/html5-boilerplate1" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
   </component>
 </project>

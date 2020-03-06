@@ -1,0 +1,71 @@
+html{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: royalblue;
+  text-decoration:none;
+}
+h2{
+  text-align:center;
+  font-size:65px;
+}
+#menu{
+  padding: 0;
+}
+#menu a,li{
+  text-align:justify;
+  display:inline;
+  padding-left:2px;
+  font-size:22px;
+
+}
+#git{
+  padding-left: 41%;
+}
+#img{
+  width: 25%;
+  padding-left: 40%;
+}
+#repo{
+  width: 25%;
+  height: 30%;
+  padding-left: 40%;
+}
+#image{
+  width: 30%;
+  padding-left: 40%;
+  height: 70px;
+}
+a, li{
+  color:wheat;
+  text-decoration:none;
+}
+a:hover{color:royalblue}
+#top h3{
+  text-align:center;
+  font-size:28px;
+  color:deepskyblue;
+  padding-bottom:20px;
+}
+#top h4{
+  text-align:justify;
+  color:dodgerblue;
+  font-size: 25px;
+  padding: 0% 2%;
+}
+p{
+  color: powderblue;
+  padding: 0% 5%;
+  font-size: 22px;
+}
+#topic{
+  font-size: 25px;
+  color: lightskyblue;
+}
+footer{
+  text-align:center;
+}
+#main {
+  width: 1208px;
+  margin-left: auto;
+  margin-right: auto;
+}
