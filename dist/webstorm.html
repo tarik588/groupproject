@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Webstorm</title>
+  <link rel="stylesheet" type="text/css" href="css/style1.css">
+</head>
+<body>
+<div id="main">
+  <header>
+    <div id="mainMenu">
+      <header id="menu">
+        <menu>
+          <li><a href="webstorm.html">Webstorm </a> |</li>
+          <li><a href="git.html"> GIT </a> |</li>
+          <li><a href="goldenRatio.html"> Golden Ratio</a></li>
+        </menu>
+      </header>
+      <h2><a href="webstorm.html">Webstorm</a></h2>
+      <div id="top">
+        <h3>Concepts</h3>
+
+        <h4>Using AFS how to do what from the following?</h4>
+        <p id="topic">Setting up & connecting through a terminal to AFS</p>
+        <ul><p>In Webstorm, to connect through a terminal go to the top bar and select 'Tools' and then at the bottom of
+          the menu click on 'start SSH session'. After that, click 'Edit credentials to input the host's and your
+          user's information. In the 'Host' bar type 'afs1.njit.edu' (You could enter any number after afs between 1 and
+          22 because of 22 ports), then input your UCID Username and Password. After pressing ok your
+          terminal will be connected to AFS.</p></ul>
+        <img src="img/host.png" alt="Host" id="img">
+
+        <p id="topic">Using Linux commands</p>
+        <ul><p> You can use Linux commands to communicate with AFS. Some basic linux commands are: </p>
+          <p id="inside">1. cd - With this command you can change the directory.</p>
+          <p id="inside">2. mkdir - With this command you can create a new directory.</p>
+          <p id="inside">3. ls - With this command you can see the list of files and directories inside a directory.</p>
+          <p id="inside">4. pwd - With this command you can know current directory you are in.</p>
+          <p id="inside">5. rm -r (directory name) - With this command you can remove a directory and all of its
+            content.</p>
+          <p id="inside">6. touch (file name) - With this command you can create a file.</p>
+        </ul>
+
+        <h4>How to create files and folders on WebStorm?</h4>
+        <p id="topic">Folders</p>
+        <ul><p>To make a folder, Right click your main directory and go to New menu, inside new click on 'Directory'.
+          With that created you will be prompted to name your directory. That is how to create a folder.</p></ul>
+        <img src="img/folder.png" alt="folder" id="img">
+
+        <p id="topic">Files</p>
+        <ul><p>To create a file follow the same process as when creating a folder, for files instead of clicking on
+          'Directory' click on any kind of File in the menu selection and then name your file. To create a file under
+          a certain directory, just Right click that directory and follow the same process.</p></ul>
+
+        <h4>How to setup WebStorm to Automatic upload to AFS?</h4>
+        <p id="topic">WebStorm Automatic Upload</p>
+        <ul><p>To AutoSave your files and upload it to AFS go to the top menu and inside 'Tools' click on 'Deployment'
+          and then click 'Automatic Upload' to automatically save your file and upload it to AFS.</p></ul>
+
+        <p id="topic">Finding Website on AFS</p>
+        <ul><p>To find your website on AFS, go to a search engine and type "web.njit.edu/~(your ucid)/your project's
+          name/filename".</p></ul>
+
+        <h4>Pull Request and Merging in Github</h4>
+        <ul><p>To make a pull request first you need to do a push so that your files can be uploaded to your Github
+          Repository. After pushing it, in your repository look for a button named 'New pull request', click it and it
+          will prompt you to choose a base branch in which you would like to merge your changes into, then choose the
+          compare menu to choose the branch you made your changes in. </p></ul>
+        <img src="img/pull.png" alt="pull" id="img">
+        <ul><p>After that type a title & description for your pull request. Then at last click the 'Create Pull Request'
+          button. Then after creating a pull request you have to choose the 'Merge Pull Request' button to merge it to
+          your own repository.</p></ul>
+        <img src="img/merging.png" alt="merging" id="img">
+      </div>
+    </div>
+  </header>
+</div>
+</body>
+</html>
