@@ -8,18 +8,51 @@ h2{
   text-align:center;
   font-size:65px;
 }
-#menu{
-  padding: 0;
+#logo{
+  float: left;
+  padding-left: 5%;
+}
+#bar li{
+  font-size: 40px;
+}
+#bar{
+  padding-left: 40%;
+}
+#menu {
+  padding-left: 70%;
 }
 #menu a,li{
-  text-align:justify;
   display:inline;
   padding-left:2px;
   font-size:22px;
-
+}
+#mainMenu h2{
+  text-align: center;
+  padding-right: 17%;
+}
+#sidebar {
+  height: 100%;
+  width: 25%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  //background-image: url("../img/wood.jpg");
+  //background-size: cover;
+  padding-top: 10px;
+  text-align: center;
+  //border-top: 1px double mediumslateblue;
+  border-right: 2px double mediumslateblue;
+}
+#pic{
+  width: 90%;
+  height: 50%;
 }
 #git{
   padding-left: 41%;
+}
+#web{
+  padding-left: 41%;
+  width: 20%;
 }
 #img{
   width: 45%;
@@ -74,8 +107,43 @@ p{
 footer{
   text-align:center;
 }
+#foot{
+  padding-left: 30%;
+}
 #main {
   width: 1208px;
   margin-left: auto;
   margin-right: auto;
+}
+#content p{
+  padding-left: 30%;
+}
+#bar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#bar li {
+  float: left;
+}
+#bar li:last-child {
+  border-right: none;
+}
+#bar li a{
+  display: block;
+  color: mediumslateblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#bar li a:hover{
+  color: royalblue;
+}
+#bar li a:hover:not(.active) {
+  background-color: powderblue;
+}
+#sea {
+  width: 40%;
+  padding-left: 43%;
 }
