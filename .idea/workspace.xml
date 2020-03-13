@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Feature 4: Concept 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="makealist" />
+        <entry key="$PROJECT_DIR$" value="newlist" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -212,7 +211,35 @@
       <option name="project" value="LOCAL" />
       <updated>1584118464385</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Feature 1: Concept 1">
+      <created>1584120670595</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584120670595</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Feature 2: Concept 2">
+      <created>1584120763728</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1584120763729</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Feature 3: Concept 3">
+      <created>1584120795323</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584120795323</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Feature 4: Concept 4">
+      <created>1584120840132</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584120840132</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +260,11 @@
     <MESSAGE value="Feature 6: Added what is supposed to be in your code." />
     <MESSAGE value="Feature 7: How to make a Z layout in code" />
     <MESSAGE value="Feature 8: Added CSS Selector concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature 8: Added CSS Selector concept" />
+    <MESSAGE value="Feature 1: Concept 1" />
+    <MESSAGE value="Feature 2: Concept 2" />
+    <MESSAGE value="Feature 3: Concept 3" />
+    <MESSAGE value="Feature 4: Concept 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 4: Concept 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1584110810849">
@@ -252,10 +283,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584111393548" />
-    <state x="261" y="10" key="CommitChangelistDialog2" timestamp="1584120793930">
+    <state x="261" y="10" key="CommitChangelistDialog2" timestamp="1584120870794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584120793930" />
+    <state x="261" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584120870794" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -280,14 +311,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="71" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870189" />
-    <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1584118441086">
+    <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1584121039738">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584118441086" />
-    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2" timestamp="1584120806902">
+    <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584121039738" />
+    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2" timestamp="1584120842285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584120806901" />
+    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584120842285" />
     <state x="421" y="103" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584108908709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -296,14 +327,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="851" y="191" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1583337613003" />
-    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583337796572">
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584121031278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337796572" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1584120112066">
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1584121031278" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584121076496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584120112066" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584121076496" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584114011369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
