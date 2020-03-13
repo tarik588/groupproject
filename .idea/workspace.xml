@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584115746818</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Feature 6: Added what is supposed to be in your code.">
+      <created>1584116935588</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584116935588</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +209,8 @@
     <MESSAGE value="Feature 4 : How to make an F layout in code" />
     <MESSAGE value="Feature 5 : Added F Layout concepts" />
     <MESSAGE value="task : Added F Layout picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="task : Added F Layout picture" />
+    <MESSAGE value="Feature 6: Added what is supposed to be in your code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 6: Added what is supposed to be in your code." />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1584110810849">
@@ -221,10 +229,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584111393548" />
-    <state x="592" y="15" key="CommitChangelistDialog2" timestamp="1584115745955">
+    <state x="592" y="15" key="CommitChangelistDialog2" timestamp="1584116934249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="592" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584115745955" />
+    <state x="592" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584116934249" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -253,10 +261,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584115750236">
+    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2" timestamp="1584116943774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584115750236" />
+    <state x="430" y="205" width="814" height="552" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584116943774" />
     <state x="421" y="103" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584108908709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
