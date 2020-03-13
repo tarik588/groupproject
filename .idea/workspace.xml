@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Task: home page for project">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/mountain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/ocean2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/sand.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/goldenRatio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,20 +12,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="makealist" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y83TbXSvM9xUNhpQJgNHrpoKZ7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,8 +43,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -103,6 +99,8 @@
       <workItem from="1583364424646" duration="867000" />
       <workItem from="1583374557836" duration="948000" />
       <workItem from="1583382012595" duration="7981000" />
+      <workItem from="1584064379770" duration="278000" />
+      <workItem from="1584115874389" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -174,10 +172,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1583525740184">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="368" y="31" key="CommitChangelistDialog2" timestamp="1584116481191">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
+    <state x="368" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584116481191" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
