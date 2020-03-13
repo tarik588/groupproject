@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="feature 1">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/git.html" afterDir="false" />
     </list>
@@ -101,7 +101,7 @@
       <workItem from="1583374557836" duration="948000" />
       <workItem from="1583382012595" duration="7981000" />
       <workItem from="1584064379770" duration="278000" />
-      <workItem from="1584115874389" duration="872000" />
+      <workItem from="1584115874389" duration="1118000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -159,7 +159,42 @@
       <option name="project" value="LOCAL" />
       <updated>1584116961177</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feature 3 commit 3">
+      <created>1584117018171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117018171</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feature 4 commit 4">
+      <created>1584117112121</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117112121</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feature 5 commit 5">
+      <created>1584117153162</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117153162</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feature 6 commit 6">
+      <created>1584117185695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117185695</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feature 7 commit 7">
+      <created>1584117216864</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117216864</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +209,12 @@
     <MESSAGE value="Task: home page for project" />
     <MESSAGE value="feature 1" />
     <MESSAGE value="feature 2 added new term" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature 2 added new term" />
+    <MESSAGE value="feature 3 commit 3" />
+    <MESSAGE value="feature 4 commit 4" />
+    <MESSAGE value="feature 5 commit 5" />
+    <MESSAGE value="feature 6 commit 6" />
+    <MESSAGE value="feature 7 commit 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature 7 commit 7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1583525715301">
@@ -189,11 +229,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
-    <state x="368" y="31" key="CommitChangelistDialog2" timestamp="1584117185542">
+    <state x="368" y="31" key="CommitChangelistDialog2" timestamp="1584117216718">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
-    <state x="368" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584117185542" />
+    <state x="368" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584117216718" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -222,11 +262,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="338" y="170" key="Vcs.Push.Dialog.v2" timestamp="1584117193315">
+    <state x="338" y="170" key="Vcs.Push.Dialog.v2" timestamp="1584117225213">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583337682715" />
-    <state x="338" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1584117193315" />
+    <state x="338" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1584117225213" />
     <state x="851" y="191" key="ftp.server.browser" timestamp="1583337613003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
