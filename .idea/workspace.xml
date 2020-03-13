@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Feature: Added What Is Golden Ratio term">
-      <change afterPath="$PROJECT_DIR$/dist/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/shell.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/shell2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goldenRatio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +46,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
-      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\src\img" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -192,10 +181,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584111393548" />
-    <state x="365" y="16" key="CommitChangelistDialog2" timestamp="1584112842975">
+    <state x="365" y="16" key="CommitChangelistDialog2" timestamp="1584114071522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="365" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584112842975" />
+    <state x="365" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584114071522" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,9 +233,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584112243335" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583336338073">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584114011369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583336338073" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584114011369" />
   </component>
 </project>
