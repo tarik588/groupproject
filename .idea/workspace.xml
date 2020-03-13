@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Feature: Added What Is Golden Ratio term">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
     </list>
@@ -149,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583525838435</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature 2 : Added more Golden Ratio concepts">
+      <created>1584114152064</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584114152064</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature 3 : Added Square Root concepts">
+      <created>1584114274827</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584114274827</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +176,9 @@
     <MESSAGE value="Task: Updated readme with markdown" />
     <MESSAGE value="Task: added the gitdance" />
     <MESSAGE value="Task: home page for project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: home page for project" />
+    <MESSAGE value="Feature 2 : Added more Golden Ratio concepts" />
+    <MESSAGE value="Feature 3 : Added Square Root concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 3 : Added Square Root concepts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1584110810849">
@@ -181,10 +197,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584111393548" />
-    <state x="365" y="16" key="CommitChangelistDialog2" timestamp="1584114150352">
+    <state x="353" y="16" key="CommitChangelistDialog2" timestamp="1584114273546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="365" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584114150352" />
+    <state x="353" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584114273546" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -213,10 +229,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584114163052">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584114276796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584114163052" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584114276796" />
     <state x="421" y="103" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584108908709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
