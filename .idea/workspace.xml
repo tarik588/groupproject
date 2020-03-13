@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/img/f_layout.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +49,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist\img" />
+      <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\dist" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1\src\img" />
       <recent name="C:\Users\User\WebstormProjects\html5-boilerplate1" />
     </key>
@@ -170,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584114715719</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feature 5 : Added F Layout concepts">
+      <created>1584115030984</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584115030984</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +195,8 @@
     <MESSAGE value="Feature 2 : Added more Golden Ratio concepts" />
     <MESSAGE value="Feature 3 : Added Square Root concepts" />
     <MESSAGE value="Feature 4 : How to make an F layout in code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature 4 : How to make an F layout in code" />
+    <MESSAGE value="Feature 5 : Added F Layout concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 5 : Added F Layout concepts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1584110810849">
@@ -205,10 +215,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584111393548" />
-    <state x="592" y="15" key="CommitChangelistDialog2" timestamp="1584115003008">
+    <state x="592" y="15" key="CommitChangelistDialog2" timestamp="1584115029207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="592" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584115003008" />
+    <state x="592" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584115029207" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
