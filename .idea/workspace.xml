@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Feature 3: Made the home page.">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Task:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/goldenRatio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/goldenRatio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webstorm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/webstorm.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +23,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="makealist" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,7 +120,8 @@
       <workItem from="1583374557836" duration="948000" />
       <workItem from="1583382012595" duration="7981000" />
       <workItem from="1583949413942" duration="5069000" />
-      <workItem from="1584032111920" duration="18422000" />
+      <workItem from="1584032111920" duration="22078000" />
+      <workItem from="1584108607954" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -190,11 +207,31 @@
       <option name="project" value="LOCAL" />
       <updated>1584062223685</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Task:">
+      <created>1584063572616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584063572616</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -209,13 +246,14 @@
     <MESSAGE value="Fix: Fixed some changes." />
     <MESSAGE value="Feature 3: Made the home page." />
     <MESSAGE value="Feature 4: Added some more content on the home page.&#10;Task: added new Pictures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature 4: Added some more content on the home page.&#10;Task: added new Pictures" />
+    <MESSAGE value="Task:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task:" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="202" y="0" key="#Deployment" timestamp="1583965894416">
+    <state x="202" y="0" key="#Deployment" timestamp="1584110945897">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="202" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1583965894416" />
+    <state x="202" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1584110945897" />
     <state x="558" y="119" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1583525715301" />
     <state x="233" y="2" key="#Notifications" timestamp="1584062253150">
       <screen x="0" y="0" width="1280" height="680" />
@@ -229,10 +267,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
-    <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1584062221948">
+    <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1584066039290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584062221948" />
+    <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584066039290" />
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1583966017941">
       <screen x="0" y="0" width="1280" height="680" />
@@ -266,15 +304,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="71" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870189" />
-    <state x="401" y="106" key="MultipleFileMergeDialog" timestamp="1583879996899">
+    <state x="280" y="41" key="MultipleFileMergeDialog" timestamp="1584066196674">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="401" y="106" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583879996899" />
+    <state x="280" y="41" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1584066196674" />
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="301" y="120" key="Vcs.Push.Dialog.v2" timestamp="1584062436674">
+    <state x="301" y="120" key="Vcs.Push.Dialog.v2" timestamp="1584066017376">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="301" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584062436674" />
+    <state x="301" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584066017376" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583337682715" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583879654169">
       <screen x="0" y="0" width="1280" height="680" />
@@ -284,14 +322,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="851" y="191" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1583337613003" />
-    <state x="458" y="104" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583879991171">
+    <state x="458" y="104" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584066190890">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="104" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1583879991171" />
+    <state x="458" y="104" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1584066190890" />
     <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337796572" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1583522130657">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="354" y="154" key="run.anything.popup" timestamp="1584066486688">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="354" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584066486688" />
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583522130657" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583336338073">
       <screen x="0" y="0" width="1536" height="824" />
