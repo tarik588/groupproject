@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="afs">
+  <component name="PublishConfigData" autoUpload="Always">
     <serverData>
       <paths name="afs">
         <serverdata>
           <mappings>
-            <mapping deploy="html5-boilerplate1" local="$PROJECT_DIR$/dist" web="/html5-boilerplate1" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="afs (project level)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="html5-boilerplate1" local="$PROJECT_DIR$/dist" web="/html5-boilerplate1" />
+            <mapping deploy="groupproject-1" local="$PROJECT_DIR$/" web="/groupproject-1" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
