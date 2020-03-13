@@ -101,7 +101,7 @@
       <workItem from="1583374557836" duration="948000" />
       <workItem from="1583382012595" duration="7981000" />
       <workItem from="1584064379770" duration="278000" />
-      <workItem from="1584115874389" duration="1118000" />
+      <workItem from="1584115874389" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -194,7 +194,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584117216864</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feature 8 commit 8">
+      <created>1584117255803</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117255803</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feature 9 commit 9">
+      <created>1584117298585</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117298585</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feature 10 commit 10">
+      <created>1584117392914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584117392914</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +235,10 @@
     <MESSAGE value="feature 5 commit 5" />
     <MESSAGE value="feature 6 commit 6" />
     <MESSAGE value="feature 7 commit 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature 7 commit 7" />
+    <MESSAGE value="feature 8 commit 8" />
+    <MESSAGE value="feature 9 commit 9" />
+    <MESSAGE value="feature 10 commit 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature 10 commit 10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="119" key="#Deployment" timestamp="1583525715301">
@@ -229,11 +253,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
-    <state x="368" y="31" key="CommitChangelistDialog2" timestamp="1584117298440">
+    <state x="368" y="31" key="CommitChangelistDialog2" timestamp="1584117392777">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
-    <state x="368" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584117298440" />
+    <state x="368" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584117392777" />
     <state x="560" y="165" key="FileChooserDialogImpl" timestamp="1583331413500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -262,11 +286,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="338" y="170" key="Vcs.Push.Dialog.v2" timestamp="1584117314205">
+    <state x="338" y="170" key="Vcs.Push.Dialog.v2" timestamp="1584117402771">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583337682715" />
-    <state x="338" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1584117314205" />
+    <state x="338" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1584117402771" />
     <state x="851" y="191" key="ftp.server.browser" timestamp="1583337613003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
