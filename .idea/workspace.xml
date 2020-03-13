@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="">
+    <list default="true" id="6620bc24-835a-42ad-98f1-c58e976235e9" name="Default Changelist" comment="Feature 3: Made the home page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/git.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/webstorm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/webstorm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <workItem from="1583374557836" duration="948000" />
       <workItem from="1583382012595" duration="7981000" />
       <workItem from="1583949413942" duration="5069000" />
-      <workItem from="1584032111920" duration="14791000" />
+      <workItem from="1584032111920" duration="17566000" />
     </task>
     <task id="LOCAL-00001" summary="Task: First Commit">
       <created>1582311211010</created>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583966518207</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feature 3: Made the home page.">
+      <created>1584052549711</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584052549711</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +203,8 @@
     <MESSAGE value="Task: Feature2 - Uploaded some more concepts" />
     <MESSAGE value="Task: Added more images for concepts" />
     <MESSAGE value="Fix: Fixed some changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: Fixed some changes." />
+    <MESSAGE value="Feature 3: Made the home page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 3: Made the home page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="202" y="0" key="#Deployment" timestamp="1583965894416">
@@ -211,10 +220,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312254310" />
-    <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1583966516860">
+    <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1584062117269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583966516860" />
+    <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584062117269" />
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583525740184" />
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1583966017941">
       <screen x="0" y="0" width="1280" height="680" />
@@ -253,10 +262,10 @@
     </state>
     <state x="401" y="106" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583879996899" />
     <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1583337870197" />
-    <state x="301" y="120" key="Vcs.Push.Dialog.v2" timestamp="1583966521086">
+    <state x="301" y="120" key="Vcs.Push.Dialog.v2" timestamp="1584052554763">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="301" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583966521086" />
+    <state x="301" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584052554763" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583337682715" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583879654169">
       <screen x="0" y="0" width="1280" height="680" />

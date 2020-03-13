@@ -40,12 +40,13 @@ h2{
   //background-size: cover;
   padding-top: 10px;
   text-align: center;
-  //border-top: 1px double mediumslateblue;
-  border-right: 2px double mediumslateblue;
+  border-top: 5px solid mediumslateblue;
+  border-right: 5px solid mediumslateblue;
 }
 #pic{
   width: 90%;
   height: 50%;
+  padding-top: 10%;
 }
 #git{
   padding-left: 41%;
@@ -134,16 +135,17 @@ footer{
   display: block;
   color: mediumslateblue;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 14px;
   text-decoration: none;
 }
 #bar li a:hover{
-  color: royalblue;
+  color: wheat;
 }
 #bar li a:hover:not(.active) {
-  background-color: powderblue;
+  background-color: royalblue;
 }
 #sea {
-  width: 40%;
-  padding-left: 43%;
+  width: 65%;
+  text-align: center;
+  display: inline-block;
 }
